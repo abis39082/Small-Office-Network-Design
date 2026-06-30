@@ -1,0 +1,14 @@
+Small Office Network Design
+
+Devices:
+- Router
+- Switch
+- PC
+- Server
+
+Topics:
+- IP Address
+- DHCP
+- DNS
+- LAN
+- Routing
