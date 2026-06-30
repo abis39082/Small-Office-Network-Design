@@ -1,0 +1,5 @@
+Router
+   |
+ Switch
+ | | |
+PC1 PC2 Server
